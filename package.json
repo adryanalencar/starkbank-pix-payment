@@ -17,6 +17,10 @@
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "starkbank": "^2.17.0",
+    "sweetalert2": "^11.7.9",
+    "sweetalert2-react-content": "^5.0.7",
     "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
   }
